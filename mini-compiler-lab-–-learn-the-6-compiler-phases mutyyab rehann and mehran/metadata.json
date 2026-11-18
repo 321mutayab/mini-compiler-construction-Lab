@@ -1,0 +1,6 @@
+{
+  "name": "Mini Compiler Lab – Learn the 6 Compiler Phases",
+  "description": "Understand how a compiler transforms your program step by step through Lexical Analysis, Syntax Analysis, Semantic Analysis, Intermediate Code Generation, Code Optimization, and Target Code Generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
